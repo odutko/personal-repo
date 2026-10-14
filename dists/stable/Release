@@ -1,0 +1,6 @@
+Origin: MyRepo
+Label: MyRepo
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
