@@ -1,0 +1,17 @@
+Package: xkbswitch
+Source: xkbswitch
+Version: 2.1.0
+Architecture: amd64
+Maintainer: Oleh <102265050@duck.com>
+Filename: pool/main/xkbswitch-mrv-2.1.0_amd64.deb
+Size: 29974
+MD5sum: 01e674f4ed931e96d774e73843e7365e
+SHA1: 549d47d7acefba2da08025f4dad3947241ea4357
+SHA256: c0dad3cdf358cb496f04c2f7cb2a4f7bf68334e4e29ea2582ab3039b3cca0bb3
+Section: misc
+Priority: optional
+Multi-Arch: foreign
+Description: C++ program that allows to query and change the XKB layout state.
+Rules-Requires-Root: yes
+Standards-Version: 4.6.2
+
